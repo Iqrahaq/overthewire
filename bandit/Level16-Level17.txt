@@ -1,0 +1,21 @@
+
+nmap localhost -p 31000-32000
+
+31046 x
+31518 x
+31691 x
+31790
+31960
+
+openssl s_client -connect localhost:
+
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+chmod 600 sshkey2.private
+
+proxychains ssh -i sshkey2.private bandit.labs.overthewire.org -p 2220 -l bandit17
+
+xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
+
+
+

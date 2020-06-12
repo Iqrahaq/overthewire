@@ -1,0 +1,9 @@
+ls
+
+alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
+
+cat data.txt | rot13
+
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit12

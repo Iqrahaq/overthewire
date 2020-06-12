@@ -1,0 +1,11 @@
+ls
+
+cd inhere
+
+ls -al
+
+base64 -d data.txt
+
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit11

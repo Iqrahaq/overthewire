@@ -1,0 +1,11 @@
+ls
+
+cd inhere
+
+ls -al
+
+cat data.txt | strings -a
+
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit10

@@ -1,0 +1,10 @@
+ls
+
+cd inhere
+
+ls -al
+
+cat .hidden
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit4

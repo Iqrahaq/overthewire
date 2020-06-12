@@ -1,0 +1,10 @@
+ls
+
+cd inhere
+
+ls -al
+
+find . -size 1033c -print
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit6

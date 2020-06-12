@@ -1,0 +1,7 @@
+ls
+
+cat data.txt | sort | uniq -u
+
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit9

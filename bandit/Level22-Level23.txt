@@ -1,0 +1,20 @@
+ls /etc/cron.d
+
+cat /etc/cron.d/cronjob_bandit23
+
+cat /usr/bin/cronjob_bandit23.sh
+
+./usr/bin/cronjob_bandit23.sh
+
+cat /tmp/8169b67bd894ddbb4412f91573b38db3
+
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit23
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+echo "GbKksEFF4yrVs6il55v6gwY5aVje5f0j" | nc -l localhost -p 60000 &
+
+./suconnect 60000
+
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit21
+
+
+
+
+
+
+

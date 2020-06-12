@@ -1,0 +1,10 @@
+proxychains - dynamic chain proxydns
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit0
+bandit0
+
+ls
+cat readme
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+boJ9jbbUNNfktd7800psq0ltutMc3MY

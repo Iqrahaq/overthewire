@@ -1,0 +1,7 @@
+ls
+
+cat data.txt | grep "millionth"
+
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit8

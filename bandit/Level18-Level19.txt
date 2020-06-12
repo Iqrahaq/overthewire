@@ -1,0 +1,16 @@
+kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+
+proxychains ssh -t bandit.labs.overthewire.org -p 2220 -l bandit18 /bin/sh
+
+cat readme
+
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit19
+
+
+
+
+
+
+

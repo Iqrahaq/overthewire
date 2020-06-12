@@ -1,0 +1,13 @@
+
+diff passwords.old passwords.new
+
+w0Yfolrc5bwjS4qw5mq1nnQi6mF03bii
+
+kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit18
+
+
+
+
+

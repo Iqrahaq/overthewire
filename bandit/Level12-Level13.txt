@@ -1,0 +1,44 @@
+ls
+
+mkdir /tmp/burawolf
+
+cp data.txt /tmp/burawolf
+
+xxd -p -r data.txt > data
+
+mv data data.gz
+
+gunzip data.gz
+
+mv data data.bz2
+
+bzip2 -dk data.bz2
+
+mv data data.zip
+
+tar -xvf data.zip
+
+mv data5.bin data5.bin.tar.gz
+  128  mv data5.bin.tar.gz data5.bin.tar
+  129  ls -al
+  130  tar -xvf data5.bin.tar
+  131  file *
+  132  bzip2 -dk data6.bin
+  133  ls -al
+  134  cat data6.bin.out
+  135  clear
+  136  ls
+  137  file *
+  138  tar -xvf data6.bin.out
+  139  ls -al
+  140  file *
+  141  gunzip data8.bin
+  142  mv data8.bin data8.bin.gz
+  143  gunzip data8.bin.gz
+  144  ls -al
+  145  file *
+  146  cat data8.bin
+
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit13

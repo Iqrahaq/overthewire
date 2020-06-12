@@ -1,0 +1,12 @@
+ls
+
+cd inhere
+
+ls -al
+
+file ./*
+
+cat ./-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit5

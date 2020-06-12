@@ -1,0 +1,10 @@
+ls
+
+echo "4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e" | nc localhost 30000
+
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit15
+
+
+

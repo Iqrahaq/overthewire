@@ -1,0 +1,22 @@
+cd /etc/cron.d
+
+cat cronjob_bandit22
+
+cd /usr/bin/
+
+cat cronjob_bandit22.sh 
+
+cd /tmp
+
+cat t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit22
+
+
+
+
+
+
+

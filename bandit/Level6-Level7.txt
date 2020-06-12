@@ -1,0 +1,13 @@
+ls
+
+cd inhere
+
+ls -al
+
+find . -size 33c -user bandit7 -group bandit6 -print
+
+cat ./var/lib/dpkg/info/bandit7.password
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+proxychains ssh bandit.labs.overthewire.org -p 2220 -l bandit7

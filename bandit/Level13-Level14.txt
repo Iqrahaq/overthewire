@@ -1,0 +1,12 @@
+ls
+
+proxychains scp -P 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private ./
+
+proxychains openssl s_client -connect bandit.labs.overthewire.org:2220 -k sshkey.private
+
+chmod 600 sshkey.private
+
+proxychains ssh -i sshkey.private bandit.labs.overthewire.org -p 2220 -l bandit14
+
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
